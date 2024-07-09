@@ -1,3 +1,19 @@
 {
-  "blogposts": []
+  "blogposts": [
+    {
+      "id": "87b7",
+      "title": "New post from mobile ",
+      "content": "New post content "
+    },
+    {
+      "title": "Second post from mobile updated from mobile ",
+      "content": "Second post content ",
+      "id": "5a23"
+    },
+    {
+      "title": "Third post from mobile updated from mobile ",
+      "content": "Third post content ",
+      "id": "336f"
+    }
+  ]
 }
